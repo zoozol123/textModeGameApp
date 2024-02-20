@@ -1,0 +1,1 @@
+TextModeGameApp is an project which I done for my univeristy subject: Human - Computer Interaction. It contains 2 games - snake, car game. App is realised using Lanterna library. Everything is text mode.
